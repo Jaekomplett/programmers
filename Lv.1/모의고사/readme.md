@@ -41,6 +41,7 @@
 - 모든 사람이 2문제씩을 맞췄습니다.
 
 
+#### 코드
 ```js
 function solution(answers) {
   let answer = [];
